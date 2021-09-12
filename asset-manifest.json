@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/splinterlands_tracker.github.io/static/css/main.cc5fe4ad.chunk.css",
+    "main.js": "/splinterlands_tracker.github.io/static/js/main.44124d84.chunk.js",
+    "main.js.map": "/splinterlands_tracker.github.io/static/js/main.44124d84.chunk.js.map",
+    "runtime-main.js": "/splinterlands_tracker.github.io/static/js/runtime-main.1e794ca0.js",
+    "runtime-main.js.map": "/splinterlands_tracker.github.io/static/js/runtime-main.1e794ca0.js.map",
+    "static/js/2.60e828d1.chunk.js": "/splinterlands_tracker.github.io/static/js/2.60e828d1.chunk.js",
+    "static/js/2.60e828d1.chunk.js.map": "/splinterlands_tracker.github.io/static/js/2.60e828d1.chunk.js.map",
+    "static/js/3.6058941c.chunk.js": "/splinterlands_tracker.github.io/static/js/3.6058941c.chunk.js",
+    "static/js/3.6058941c.chunk.js.map": "/splinterlands_tracker.github.io/static/js/3.6058941c.chunk.js.map",
+    "index.html": "/splinterlands_tracker.github.io/index.html",
+    "static/css/main.cc5fe4ad.chunk.css.map": "/splinterlands_tracker.github.io/static/css/main.cc5fe4ad.chunk.css.map",
+    "static/js/2.60e828d1.chunk.js.LICENSE.txt": "/splinterlands_tracker.github.io/static/js/2.60e828d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e794ca0.js",
+    "static/js/2.60e828d1.chunk.js",
+    "static/css/main.cc5fe4ad.chunk.css",
+    "static/js/main.44124d84.chunk.js"
+  ]
+}
